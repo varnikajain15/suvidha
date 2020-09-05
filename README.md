@@ -1,6 +1,6 @@
 # Suvidha
 Eduthon
 
-Team Technoholica
-Team Mebers: Varnika Jain
+Team Technoholics
+Team Members: Varnika Jain
              Midhat Fatima
