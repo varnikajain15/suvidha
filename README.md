@@ -1,4 +1,4 @@
-## SUVIDHA
+# SUVIDHA
 #### Your online study partner
 
 ## LINK OF PROJECT
