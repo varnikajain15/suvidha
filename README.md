@@ -1,6 +1,7 @@
-# Suvidha
-Eduthon
+#SUVIDHA
+#### Your online study partner
 
-Team Technoholics
-Team Members: Varnika Jain
-             Midhat Fatima
+##Team Technoholics
+##Team Members: 
+*Varnika Jain
+*Midhat Fatima
